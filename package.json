@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ABasket/996UI/issues"
   },
-  "homepage": "https://github.com/ABasket/996UI#readme"
+  "homepage": "https://github.com/ABasket/996UI#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
